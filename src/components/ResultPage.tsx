@@ -21,7 +21,7 @@ export default class Resultpage extends Component {
         <Animation>
           <StyledHeading>{count}</StyledHeading>  
         </Animation>
-        <Link to="/">{`< Go back and continue the clicking`}</Link>
+        <Link to="/">{`< Go back and continue clicking`}</Link>
       </Layout>
     );
   }

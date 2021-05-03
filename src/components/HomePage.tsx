@@ -25,7 +25,7 @@ export default class HomePage extends Component {
             Click
           </Button>
         </Animation>
-        <Link to="/result">{`Check how many times you have clicked >`}</Link>
+        <Link to="/result">{`Check number of clicks >`}</Link>
       </Layout>
     );
   }
