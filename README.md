@@ -1,7 +1,5 @@
 # Click Counter
 
-![Screenshot 2021-05-03 at 20 47 48](https://user-images.githubusercontent.com/43669026/116919394-80e8c900-ac51-11eb-9843-94eb06c2ed55.png)
-
 ## Installation
 - Clone the repository
 ```
