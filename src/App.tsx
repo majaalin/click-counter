@@ -21,7 +21,7 @@ const mapDispatchToProps = (dispatch: Dispatch): AppProps => ({
 
 class App extends Component<AppProps, AppState> {
   render(): JSX.Element {
-    return <main><Switch><Route path="/" component={() => <HomePage {...this.props} />} exact/><Route path="/result" component={() => <ResultPage {...this.props} />}/></Switch></main>;
+    return <main><Switch><Route path="/" component={() => <HomePage {...this.props} />} exact/><Route path="/number-of-clicks" component={() => <ResultPage {...this.props} />}/></Switch></main>;
   }
 }
 

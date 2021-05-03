@@ -21,7 +21,7 @@ const StyledButton = styled.div`
   border-radius: 5px;
   font-size: 30px;
   box-shadow: 0 0 20px 0 rgba(0,0,0,.3);
-  transition: all 0.25s cubic-bezier(0.310, -0.105, 0.430, 1.400);;
+  transition: all 0.25s cubic-bezier(0.310, -0.105, 0.430, 1.400);
 
   &:hover {
     background-color: #ff4d2e;
