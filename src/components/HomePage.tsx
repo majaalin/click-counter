@@ -10,7 +10,7 @@ interface Props {
 }
 
 const StyledHeading = styled.h1`
-  color: tomato;
+  color: cornflowerblue;
   font-size: 4em;
 `;
 

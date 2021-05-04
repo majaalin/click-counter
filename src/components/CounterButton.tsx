@@ -6,7 +6,7 @@ interface ButtonProps {
 }
 
 const StyledButton = styled.div`
-  background-color: tomato;
+  background-color: cornflowerblue;
   width: 50%;
   max-width: 300px;
   height: 80px;
@@ -24,7 +24,7 @@ const StyledButton = styled.div`
   transition: all 0.25s cubic-bezier(0.310, -0.105, 0.430, 1.400);
 
   &:hover {
-    background-color: #ff4d2e;
+    background-color: #3d7aeb;
   }  
 `;
 
