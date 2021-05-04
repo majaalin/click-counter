@@ -11,7 +11,8 @@ const StyledLink = styled(Link)`
   text-decoration: none;
   bottom: 5vw;
   color: gray;
-
+  transition: color 0.25s ease-in-out;
+ 
   &:hover {
     color: #494949;
   }
